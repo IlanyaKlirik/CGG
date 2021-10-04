@@ -7,13 +7,13 @@ from PyQt5.QtCore import QPoint
 
 A = 200
 B = 0.1
-C = 0
+C = 0hhhh
 D = 0
 
 
 class Graph(QWidget):
     def __init__(self, a, b, c, d):
-        super().__init__()
+        super().__init__()gghkmbj
         self.init_ui()
         self.k = 1  # коэффициент не нужен. это если вдруг вздумается масшатбировать график
         self.A = a
