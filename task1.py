@@ -6,10 +6,10 @@ from PyQt5.QtCore import Qt
 
 
 class DrawingWidget(QWidget):
-    def __init__(self, func, a, b):
+    def __init__(self,func.sd.):
         super().__init__()
 
-        self.function = func
+        self.function = funtiin
         self.a = a
         self.b = b
 
